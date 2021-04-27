@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Online-Store/static/css/main.a45bcacc.chunk.css",
+    "main.js": "/Online-Store/static/js/main.86ce060c.chunk.js",
+    "main.js.map": "/Online-Store/static/js/main.86ce060c.chunk.js.map",
+    "runtime-main.js": "/Online-Store/static/js/runtime-main.aed37fa9.js",
+    "runtime-main.js.map": "/Online-Store/static/js/runtime-main.aed37fa9.js.map",
+    "static/js/2.604c2e3f.chunk.js": "/Online-Store/static/js/2.604c2e3f.chunk.js",
+    "static/js/2.604c2e3f.chunk.js.map": "/Online-Store/static/js/2.604c2e3f.chunk.js.map",
+    "static/js/3.76452a1a.chunk.js": "/Online-Store/static/js/3.76452a1a.chunk.js",
+    "static/js/3.76452a1a.chunk.js.map": "/Online-Store/static/js/3.76452a1a.chunk.js.map",
+    "index.html": "/Online-Store/index.html",
+    "static/css/main.a45bcacc.chunk.css.map": "/Online-Store/static/css/main.a45bcacc.chunk.css.map",
+    "static/js/2.604c2e3f.chunk.js.LICENSE.txt": "/Online-Store/static/js/2.604c2e3f.chunk.js.LICENSE.txt",
+    "static/media/SadEmogi.101e4c58.png": "/Online-Store/static/media/SadEmogi.101e4c58.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed37fa9.js",
+    "static/js/2.604c2e3f.chunk.js",
+    "static/css/main.a45bcacc.chunk.css",
+    "static/js/main.86ce060c.chunk.js"
+  ]
+}

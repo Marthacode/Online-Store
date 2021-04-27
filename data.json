@@ -1,0 +1,47 @@
+{
+    "results" : [
+        {
+            "id ": "1",
+            "image" : "https://images.philips.com/is/image/PhilipsConsumer/GC2990_26-IMS-en_KE?$jpglarge$&wid=1250",
+            "name" : "Pressing Iron",
+            "price" : "#50,000.00"
+        },
+        {
+            "id ": "2",
+            "image" : "https://www.kindpng.com/picc/m/119-1197931_fan-png-image-transparent-background-fan-png-png.png",
+            "name" : "Standing Fan",
+            "price" : "#90,000.00"
+        },
+        {
+            "id ": "3",
+            "image" : "https://www.kindpng.com/picc/m/94-942215_ceiling-fans-png-selling-fan-transparent-png.png",
+            "name" : "Ceiling Fan",
+            "price" : "#150,000.00"
+        },
+        {
+            "id ": "4",
+            "image" : "https://bosshome.com/wp-content/uploads/14000-min.jpg",
+            "name" : "Large Capacity Washing Machine",
+            "price" : "#140,000.00"
+        },
+        {
+            "id ": "5",
+            "image" : "https://www.lg.com/us/images/tvs/43lf6300/gallery/65LF63_large_02.jpg",
+            "name" : "Smart TVr",
+            "price" : "#240,000.00"
+        },
+        {
+            "id ": "6",
+            "image" : "https://freepngimg.com/thumb/technology/52116-7-water-cooler-hd-free-hq-image.png",
+            "name" : "Water Cooler",
+            "price" : "#90,000.00"
+        },
+        {
+            "id ": "7",
+            "image" : "https://image.pngaaa.com/676/2282676-middle.png",
+            "name" : "Evaporative Air Condition",
+            "price" : "#90,00.00"
+        }
+        
+    ]
+}
