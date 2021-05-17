@@ -1,0 +1,40 @@
+[
+    {
+        "id ": "1",
+        "image" : "https://images.philips.com/is/image/PhilipsConsumer/GC2990_26-IMS-en_KE?$jpglarge$&wid=1250",
+        "name" : "Pressing Iron",
+        "price" : "#50,000.00"
+    },
+    {
+        "id ": "2",
+        "image" : "https://ph-test-11.slatic.net/p/4287000e6be89e5c9f4e9987c4d55207.jpg",
+        "name" : "Standing Fan",
+        "price" : "#90,000.00"
+    },
+    {
+        "id ": "3",
+        "image" : "https://i0.wp.com/freepngimages.com/wp-content/uploads/2017/07/ceiling-fan.png?fit=500%2C500",
+        "name" : "Ceiling Fan",
+        "price" : "#150,000.00"
+    },
+   
+    {
+        "id ": "5",
+        "image" : "https://www.lg.com/us/images/tvs/43lf6300/gallery/65LF63_large_02.jpg",
+        "name" : "Smart TV",
+        "price" : "#240,000.00"
+    },
+    {
+        "id ": "6",
+        "image" : "https://freepngimg.com/thumb/technology/52116-7-water-cooler-hd-free-hq-image.png",
+        "name" : "Water Cooler",
+        "price" : "#90,000.00"
+    },
+    {
+        "id ": "7",
+        "image" : "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQDw8PDxAOEA8NDw8PDw4PDw8PDQ0NFREWFhURFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMuNygtLisBCgoKDQ0NFQ0NFSsZFRkrKysrLS0rKzcrKysrKysrKys3LTcrNy0rKysrLSsrKysrKysrKysrKysrKysrKysrK//AABEIALUBFwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj/xABPEAACAQIBBQoKBAsFCQAAAAAAAQIDEQQFEiExQQYyUVJhcYGRsdETFCJTcpKTocHSFYKj4QcjM0JDYmNzorLwJER0g7MWFzRFVZSktPH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/APcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4lwFAbcRyAeJcjcxHMCS4ZxA6g11ALGcGcVvCh4UC1nBcrKoOVQCxcUhUx6kA8BExQAAAAAAAAAAAAAAAAAAAAAAuJcBQG3EcgH3EuRuY1zAluI5ELqDHVAncxrmVpViOVYC26gx1SnKsRyrAXJVhkqxSlWI5VgLrrDHXKLqjXVAvOuHhyh4QPCAaCrkkaxmKqPjVA1oVSaFQyadUtUqgGlGQ9Mq05FiLAkARAAoAAAACXAUBtxHIB9xLjHMa5gSXEciF1BjqgTuY1zK0qxHKsBbdQY6pTlWI5VgLkqxHKsU5ViOVYC5KsRyrFN1RjqAW5ViKVUrOY1zAsOqMdQSnQnLexk+W2jrHwwjehzjfixzqs10QTAicxrmaFPJ/6k5cs5RpQfVnS9xZp4CS206foQz5L607/wAoGTTpTlvYyfMnYScFF5sqlGM3qhKtTUr8Frm1PAU3+UdSpyTqScH9RWj7jMynXpQg6cKdNRehxUIqDXBZKxYHxybJb+cI8kbzfXoJo4Knwyl02Ku5/wAqjG93mucNLvojOUV7kjbpwAprAQ2Ql1yGzyatmcum5qxQkwlYc8LKPL2jqMtRoVlq9KP8yIoLXySl2iKkoyLlNlGKs9H3F2mQTIAQAKI2DGyYA2Mcxk5kE6oE7qDHVKk6xFKsBclWI5VinKsRyrAXJViOVcpuqMdQC3KsRyrFVzGuYFh1RjqCUqE572Mny20dZZp5KqPW4x/ifu0e8Co5jXM2KWSILfOUv4V7u8tU8LCOqMVy2V+t6QMGnQnLexk+W2jrJ6eTZvW4rmvN+7Qbjtt08+ntGyrIoz6eSltu/SkorqjftLVPBRjqzY+jBX65XHSxKIpYlgTvDw/OWf6bc10KWhdA51ElbQlwbCjKu3wkUpMIvzxSK88YVGNsA+tXb2mLi9LZrNGbilpZRo7l1+J5qtdfbTN2CMPcv+SlyVq/+ozdiQSDJjhk2VEFbV0w/mRDD870pdpLXejph/MiKm996TCnFumU5FymTVTxAIgQDIajJZFeqwIK0ylUqE1eRQqyAWdUidQYk5OyV+xFilk+ctq6Ly960e8Cu6g1zNWlkhfnOT6Uvcr9pcpYOnHUoro0++7AwadGct7GT5UtHWWaWS6j1uMenOfu0G05RXKMlXAp0skQW+cpfwr+ukt0sJTjqjFctrvrekbKuyOVRlFtzQyVdFRyEbAsSxBHKsyIQIc5sa2AANYlh9hc0ojsGaSOyGOYDc0TNBzZGyBztwmZi5Ru9PaX2ZOO3zKNXcu/xdT9/W7U/ibsTndyb/F1uTE1P9Om/idFEgfcjY64xlEGIeh9HaiKGuXpfAfiN7LmYxPyp+l8EA5lykUmy7RJpieIBECKJFaqWZFWqBQxBn1S/iChVA3aFCEErRV7K8rK7dtdySVQivq5l2DWyh8qpHKbGNjWwFchLjbgELcS4gAKAgtgEFCwOQC2AY5jWA9zWwa5MQQqBjRWIwEGsViMimsycdvmarMrHa2UXdye8xH+KdubwFD7zokzmtyb8nFcmK0c3iuHOjiyKkuMmwuMmyohxG9l6L7Bt/KnzrsFrb2XovsGJ+VP6vYA5svUdSKDL1DUuZE0xZiARAikkVqpZkVqwGfiChVL+IKFUDZv2LsGtiX7EIyhGNFAIQLBnLhEz0AtgsNcxjkBK2kNcxjEQD7iBcS5UKIAgC3EAQAEYCBQxrFbGsgbIyca9LNSozJxj0lFzci9GL/xS/8AVw50SZze45/8X/iYv/xqS+B0aZA641sLiSAjq72XovsIYvypc0ewlq6nzPsIYvyn6MSh7Zfw2pcy7DPNDDb1cyJpi1EAiBFEitVLMiCqgM3EIoVTSrxM+tEC/njXMgliYcePrIb4zDjL3lRO5CEHjEeF+rJ/APGFwS9SRROBXeJXEqP6v3jXinsp1OqPeA7HKo6bVFxjUvBxctEbKcXJPQ9cVJatvSYyyXj5b/GpXzfyamrLyc6ySjpdpc2dblNbxmWylPpaQKtU811z+4CLI+BqUYSjVrzxDlKMlOalnRSpxi1pk9bjfZr6S8V3Otspx6ZvuE/tGyNJc+e/iBaAqZmJ4aS+pJ/EPF8S/wBLBc1KPxAt3EbKviNd668uinSXwFWTau2vV6M2PYgLFwK/0Q3rrYh/5s12CrIsdsqz561V/ECZjWxn0HR2wv6Tcu1j45EoL9DT9SJBHKtBa5wXPKKInjKXnKfrx7y9HJtJaqcFzRiSxw0VqSXQCMieKg9Uk/RvLsM7G31uMkm7JuMopu17Xa5GdV4NGVunX4mHJUX8kiipuMenF/vqT66Me46U5fca/Kxa/XoP7N9x09wFGyYNjWwGzeggg9P1I/EmuV6f5v7uARKaGF3q5jOuaGE3qJq4uRAIgRSsimiVjZIChWgUK0DXqQKVamA2ME9dutEihDjQ9ZFBUHdrPlHalGMNXSn/AFYkWDlx6vq0/kKi6nSX59P1494qq0fOUvXj3lLxWXnK3VS+QR4d+drfZfIFXvC0fOUvXj3iOrR48Osz5Yf9rW+y+QjdH9rW66XyBGn4Wlxl1S7g8LS4y6pdxlOl+0q9dP5Rkqa85V9aPygbHh6XG6ozfwDxmlwv2dTuMR015yt667hrprzlb1/uA3PGqX63s6ncHjlL9f2c+4wXSXHre0+4a6MePW9q+4sK6B42kuN0U59w36Qp8E/UfxMB0I8et7V9wngI8ev7WQhW/wDSFPi1PVj8wn0jDiVeqn8xgeAXHr+2kJ4uvOV/bSEK6D6RhxKn2XzifSMOJU+z+Y594decxHtpjXh15zEe2mIV0LyhHiz+z+YT6QjxZdcO8510F5zEe2mMdH9pX9tPvEK6N5QjwPrj3mJuixufGMErRUs5u6bbtZaud/1rqSorzlf29TvIamEjJWlKtJPY69Wz6mILW4ud5Yua3rq06UXslKnT8u3M55vPFnU3ObydUjCMYQjGEaaUYwilGMY7EktRu0aqkrgT3GNiNiXALleOuP7uJM2RUd9D0UveggnWtGUkpTzbrNgryk07NRvaPvWo08nyvTi7Sjdb2Vs5adTs2veY2TXehQb1ujSb53BNvrbNvA7xdPaTVxciAICKcI0KAEUolepAttDJRAy69C/I9jPIt3243GQlKvgMVi6abu8L4zW8Hf8AZSv/AAvTwHtcqZDVoqzzrW23ta3KB83qtVp5sZ4/KqqKMc9RnW0SaTf6YtPKNWCi3lPKnlJNLwmIb6lUZ7NjtyuHqTlNU4XlbepNaFZGfPcVRvfM02te2pXuaR5Q8u1l/wA0ykufxx95Wyxl7H0s3wGUsZVmn5UM+tmuK5ZWfUetz3E0eKVZbgqOdKVruVtexJJWXUB5dk3dRlGqm6mUa2HtvVKdZuXDdNSt/wDS/Uyvj468sNX4Zw288Dvam4OnwFGt+D2LnnO7Wako7E1t7OoDjll/Hf8AWYdNbCLtiSU8s5SldxytTkla9q+Bdr6r6ORnUT/B+uKuorVtwMlGagkpSVk7aL3vpAwllfKr1ZTg+apk9/Aesq5Y2Y5PmWBl2RND/d5bXG74WtZFP8H/AOouoCBZVy0v7y3/AJOFa90DCq/hFyjTqNSxMalPSlKNDDq8ufMd1y20m5itw9TNhCMVmpyztGqOvR036ytV3CNqzi2ukBMBuzyrXbVKV3GKk1KhRk3Fu10lBf00XP8AaLLa8304VfApz3IVdG/WarJ3d7cFxKuQcTSpNRdVtzjZKc73l5PD6PUwLb3T5aWtUOnDP5hv+1uV9qwv/by+coLc/jF+nxKfJXq94v0Tjo6sRivbVH8QOs3Kbp8RWqSo42NOMpaaNSnFwhJ7ack29O1Pka4DqZS/rWeUvB49f3jEes2dRkXLFdU8zF76nH8u9CqRulefBLTr1PkCOpm2m1fSkm7Up2SerStBBWruNnJeS5ZkpWccyei109Nnw9qu1Tlj7rY7xas82ScXsaaakuRrmttKWUoSSjOzeZ4OVPOjmTprUr5ibts2rpCrjrtO61r38hq5Pyiu9cDOV8ZzHZvOhe0KnZGXA+Xbz63+MNO6un2lR6BTrKS0CuRx2Ey046zawmWKc9quRWvcipvyocz7UMjiIvaRqvG8XdaFLtQEmAd6VFbXTprpzUjewtLNik9l9Rx/0tSoQkpyTdNz8HGMoXqQTvCzbUYuzS8prSns0nW5KxDq0YVJRcXNNqLtfNvoehtaVp6SaYuIAQEUoAAANaHAAxxGuBKJYCtLCQeuEHzxiN8ShsilzXXYW7BYCl4nHhmuapU7xHhOCc16r7Uy9YLAZ/ikuO+mFP4JCPCz40Hzwl8JGhYM0DNeHnwU30zj3jXQn5uL5qnfFGnmhmgZbpvzU+h0n2yQ101tp1F9RP8AlbNXNDMKMd06W1SXPSq/KMlRocMFzvN7bG1mA4CjEWDovU6b5pxfxB5Kg9Ub82k2JYeL1xi+dJkTwFLzdP1IoUZEsjQ4vuIpZDp8C6jb8QhsTXoznHsYeJLZKqv82o+1sUc/Lc/T4EU8TucpznToW/LNupa6ccPBpzd9l24xXpN7DrPEnsq1FzqlLtiOwuCUJTm25zqZqcpKKtCK8mKS0JXcnzyYqOdp7gsBHeQrQXAq9WUeqTaCtuDwctaq+tGXbFnWWCxFcRidwFOz8FVcZWsvC0oVI24Hm5rsUYfg9rp6MXSUbaIqhUav01Lpcl7ch6LYLFpHDPcFoX9ple2n8V5N+TytRVqfg9q64YqMX+7kviz0OwWFSPP6G4fGp2ljqahtzaUnO3JdpHQYPchhYJeEVTESSs5V5ykn9RWiuo6GwWJVUaGSMNDeYfDxttjSpp9di8kKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJYUAEsFgAAsFgAAsKAAAAAAAAAAAAAAAAAAAAAAf/9k=",
+        "name" : "Air Conditional",
+        "price" : "#90,00.00"
+    }
+    
+]
